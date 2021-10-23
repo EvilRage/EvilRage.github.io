@@ -1,0 +1,30 @@
+body {
+  height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 231, 179);
+}
+
+.gelombang {
+  margin-top: -17px;
+}
+
+#project {
+  background-color: rgb(255, 231, 179);
+}
+
+footer {
+  padding-bottom: 2rem;
+  background-color: rgb(255, 231, 179);
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
+
+section {
+  padding-top: 5rem;
+}
